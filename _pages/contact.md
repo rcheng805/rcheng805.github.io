@@ -5,12 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Email: rcheng@caltech.edu
+Mail: 1200 E California Blvd, MC 104-44, Pasadena, CA 91125
+Office: 205 Gates Thomas, California Institute of Technology
