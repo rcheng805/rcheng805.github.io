@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -182,6 +182,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  activities:
+    output: true
+    permalink: /:collection/:path/
+  contact:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -239,6 +245,24 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _activities
+  - scope:
+      path: ""
+      type: activities
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _contact
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
