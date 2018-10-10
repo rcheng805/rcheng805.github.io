@@ -12,5 +12,5 @@ Mail: &nbsp; &nbsp; &nbsp; Richard Cheng <br/>
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;MC 104-44 <br/> 
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Pasadena, CA 91125
      
-Office: &nbsp; &nbsp; 205 Gates Thomas <br/> 
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;California Institute of Technology
+Office: &nbsp; &nbsp;205 Gates Thomas <br/> 
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;California Institute of Technology
