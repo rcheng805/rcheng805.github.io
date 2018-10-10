@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Richard Cheng"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Richard Cheng"
 description              : &description "PhD Candidate at California Institute of Technology"
