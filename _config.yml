@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Richard Cheng"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Candidate at California Institute of Technology interested in reinforcement learning and data decomposition with applications in robotics and medicine."
   location         : "Pasadena, California"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=d_Fpj0oAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
