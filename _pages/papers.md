@@ -5,7 +5,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-Email: &nbsp; &nbsp; rcheng@caltech.edu
+Email: None.
 
 Mail: &nbsp; &nbsp; &nbsp; Richard Cheng <br/> 
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1200 E California Blvd <br/> 
