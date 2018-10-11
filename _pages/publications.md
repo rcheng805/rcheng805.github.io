@@ -1,6 +1,3 @@
-
-{% comment %} 
-
 ---
 layout: archive
 title: "Publications"
@@ -17,8 +14,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-{% endcomment %}
 
 Richard Cheng, Yanan Sui, Dimitry Sayenko, Joel W. Burdick. On Muscle Activation for Improving Robotic Rehabilitation after Spinal Cord Injury. (2010). IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018. 
 
