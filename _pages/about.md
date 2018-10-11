@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Webpage for Richard Cheng"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
