@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /papers/
 
   #- title: "Talks"
   #  url: /talks/    
@@ -12,7 +12,7 @@ main:
   - title: "Activities"
     url: /activities/
   
-  - title: "Contactasdf"
+  - title: "Contact"
     url: /contact/
     
   #- title: "Portfolio"
