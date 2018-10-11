@@ -11,6 +11,6 @@ citation: 'Richard Cheng, Joel W. Burdick. "Extraction of Muscle Synergies in Sp
 
 This paper describes a novel algorithm for extracting low-dimensional motor primitivies (i.e. muscle synergies) from patients with complete spinal cord injury.
 
-[Download paper here](http://rcheng805.github.io/files/embc2018.pdf)
+Download paper [here](http://rcheng805.github.io/files/embc2018.pdf)
 
 Recommended citation: Richard Cheng, Joel W. Burdick. "Extraction of Muscle Synergies in SCI. IEEE Engineering in Medicine and Biology Conference, 2018.
