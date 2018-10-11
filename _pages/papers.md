@@ -17,8 +17,8 @@ Paper can be found [here](http://rcheng805.github.io/files/iros2018.pdf)
 Richard Cheng and Joel W. Burdick. "Extraction of Muscle Synergies in Spinal Cord Injured Patients. IEEE Engineering in Medicine and Biology Conference, 2018. <br/>
 Paper can be found [here](http://rcheng805.github.io/files/embc2018.pdf)
 
-Pakpong Chirarattananon, Yufeng Chen, E. Farrell Helbling, Kevin Y. Ma, Richard Cheng, and Robert J. Wood. Dynamics and flight control of a flapping-wing robotic insect in the presence of wind gusts. Interface Focus, 2016.
+Pakpong Chirarattananon, Yufeng Chen, E. Farrell Helbling, Kevin Y. Ma, Richard Cheng, and Robert J. Wood. Dynamics and flight control of a flapping-wing robotic insect in the presence of wind gusts. Interface Focus, 2016. <br/>
 Paper can be found [here](http://rcheng805.github.io/files/interface2016.pdf)
 
-Pakpong Chirarattananon, Kevin Y. Ma, Richard Cheng, and Robert J. Wood. Wind Disturbance Rejection for an Insect-Scale Flapping-Wing Robot. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2015.
+Pakpong Chirarattananon, Kevin Y. Ma, Richard Cheng, and Robert J. Wood. Wind Disturbance Rejection for an Insect-Scale Flapping-Wing Robot. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2015. <br/>
 Paper can be found [here](http://rcheng805.github.io/files/iros2015.pdf)
