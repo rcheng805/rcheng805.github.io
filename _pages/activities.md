@@ -8,13 +8,13 @@ author_profile: true
 Teaching Assistant
 ---
 
-__CDS 110 (Introduction to Feedback Systems)__
-
-The CDS 110 course provides an introduction to analysis and design of feedback control systems, including classical control theory in the time and frequency domain. As a teaching assistant, I held precepts, answered students' questions, and graded assignments.
-
-__ME/CS/EE 134 (Autonomy)__
+__ME/CS/EE 134 (Autonomy) - Spring, 2018__
 
 The ME/CS/EE 134 course covers the basics of autonomy at the intersection of computer vision, machine learning, and robotics. I designed one the hardware labs, which dealt with mapping, localization, and navigation. I ran students through how to program a turtlebot to autonomously navigate around obstacles from a start point to end point. In addition, I wrote up a couple assignments to get students familiar path planning and ROS (robot operating system), and I also guest lectured twice for the course, providing an overview and tutorial on ROS. A github repository with some of the course materials can be found [here](https://github.com/rcheng805/ME134_robotics).
+
+__CDS 110 (Introduction to Feedback Systems) - Fall, 2016__
+
+The CDS 110 course provides an introduction to analysis and design of feedback control systems, including classical control theory in the time and frequency domain. As a teaching assistant, I held precepts, answered students' questions, and graded assignments.
 
 Tutoring
 ---
