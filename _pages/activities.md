@@ -35,15 +35,3 @@ Undergraduate Advising
 ---
 
 As a PhD student at Caltech, I have advised one senior thesis project and one summer research project in Joel Burdick's lab group. The summer research project undertaken by Aakash Bajpai was titled "Design and Implementation of a SCI Rehabilitation Home Therapy Robot", and dealt with the design and prototyping of a perturbation platform that could be used to train and test motor function in patients with spinal cord injury. The senior thesis project undertaken by Sandra Liu was titled "State Estimation and Control for a Perturbing Platform for Robotic Rehabilitation", which dealt with adding sensors and implementing a controller on the same perturbation platform.
-
-
-
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
