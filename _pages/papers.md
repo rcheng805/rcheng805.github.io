@@ -8,7 +8,7 @@ author_profile: true
 List of Publications
 ------
 
-* Richard Cheng, Gabor Orosz, Richard M. Murray, and Joel W. Burdick. *Safe Reinforcement Learning through Barrier Functions for Safety-Critical Continuous Control Tasks.* AAAI Conference on Artificial Intelligence (Accepted). [(pdf)](http://rcheng805.github.io/files/aaai2019.pdf) <br/>
+* Richard Cheng, Gabor Orosz, Richard M. Murray, and Joel W. Burdick. *Safe Reinforcement Learning through Barrier Functions for Safety-Critical Continuous Control Tasks.* AAAI Conference on Artificial Intelligence (Accepted). [(pdf)](http://rcheng805.github.io/files/aaai2019.pdf) [(slides)](http://rcheng805.github.io/files/aaai2019_slides.pdf)<br/>
 
 * Richard Cheng, Yanan Sui, Dimitry Sayenko, and Joel W. Burdick. *On Muscle Activation for Improving Robotic Rehabilitation after Spinal Cord Injury.* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018. [(pdf)](http://rcheng805.github.io/files/iros2018.pdf) <br/>
 
