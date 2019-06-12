@@ -8,7 +8,7 @@ author_profile: true
 List of Publications
 ------
 
-* Richard Cheng, Abhinav Verma, Gabor Orosz, Swarat Chaudhuri, Yisong Yue, and Joel W. Burdick. *Control Regularization for Reduced Variance Reinforcement Learning.* International Conference on Machine Learning (ICML), 2019. [(pdf)](http://rcheng805.github.io/files/icml2019.pdf) [(slides)](http://rcheng805.github.io/files/icml2019_slides.pdf)<br/>
+* Richard Cheng, Abhinav Verma, Gabor Orosz, Swarat Chaudhuri, Yisong Yue, and Joel W. Burdick. *Control Regularization for Reduced Variance Reinforcement Learning.* International Conference on Machine Learning (ICML), 2019. [(pdf)](http://rcheng805.github.io/files/icml2019.pdf) [(slides)](http://rcheng805.github.io/files/icml2019_slides.pdf)<br/> [(poster)](http://rcheng805.github.io/files/ICML_poster_REVISED3.pdf)<br/>
 
 * Richard Cheng, Yanan Sui, Dimitry Sayenko, and Joel W. Burdick. *Motor Control After Human SCI Through Activation of Muscle Synergies Under Spinal Cord Stimulation.* IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), 2019. [(pdf)](http://rcheng805.github.io/files/tnsre2019.pdf) <br/>
 
