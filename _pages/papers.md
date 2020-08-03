@@ -1,5 +1,6 @@
 ---
 layout: archive
+driveId: 1fARZ0LyYAshAawUmxx5-qiw0KJpEYQUF/preview
 title: "Publications"
 permalink: /papers/
 author_profile: true
@@ -10,7 +11,7 @@ List of Publications
 
 * Richard Cheng, Mohammad Javad Khojasteh, Aaron D. Ames, and Joel W. Burdick. *Safe Multi-Agent Interaction through Robust Control Barrier Functions with Learned Uncertainties.* IEEE Conference on Decision and Control (CDC), 2020. [(pdf)](http://rcheng805.github.io/files/cdc2020.pdf) [(video)](http://rcheng805.github.io/files/CDC2020_video.mp4) <br/>
 
-{% include googleDrivePlayer.html id=1fARZ0LyYAshAawUmxx5-qiw0KJpEYQUF/preview %}
+{% include googleDrivePlayer.html id=page.driveId %}
 
 * Richard Cheng, Krishna Shankar, and Joel W. Burdick. *Learning an Optimal Sampling Distribution for Efficient Motion Planning.* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020. [(pdf)](http://rcheng805.github.io/files/iros2020_tri.pdf) [(video)](http://rcheng805.github.io/files/IROS20_1807_VI_i.mp4) <br/>
 
