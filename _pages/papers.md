@@ -4,6 +4,8 @@ driveId1: 1fARZ0LyYAshAawUmxx5-qiw0KJpEYQUF/preview
 driveId2: 1KP-7GNknOHxxelOqzaRAmzBePtqtRINn/preview
 driveId3: 1z1rX8xX751uMhZESRzfOftsXzW33xYSj/preview
 driveId4: 1kPURuuuP_aeDQT_m3nnvy2ceQP6e7_-8/preview
+driveId5: 1pIOxlE6xuargxQ5eN3gU5DqrEo8FeNkG/preview
+driveId6: 1djt0AZrfRIdQCPRYkjm5NZU9fCJOOnuY/preview
 title: "Publications"
 permalink: /papers/
 author_profile: true
@@ -26,7 +28,7 @@ List of Publications
 
 {% include googleDrivePlayer.html id=page.driveId4 %}
 <br/>
-* Richard Cheng, Abhinav Verma, Gabor Orosz, Swarat Chaudhuri, Yisong Yue, and Joel W. Burdick. *Control Regularization for Reduced Variance Reinforcement Learning.* International Conference on Machine Learning (ICML), 2019. [(pdf)](http://rcheng805.github.io/files/icml2019_paper.pdf) [(slides)](http://rcheng805.github.io/files/icml2019_presentation.pdf) [(poster)](http://rcheng805.github.io/files/icml2019_poster.pdf) [(video)](http://rcheng805.github.io/files/CORERL_video.mp4) <br/> <br/>
+* Richard Cheng, Abhinav Verma, Gabor Orosz, Swarat Chaudhuri, Yisong Yue, and Joel W. Burdick. *Control Regularization for Reduced Variance Reinforcement Learning.* International Conference on Machine Learning (ICML), 2019. [(pdf)](http://rcheng805.github.io/files/icml2019_paper.pdf) [(slides)](http://rcheng805.github.io/files/icml2019_presentation.pdf) [(poster)](http://rcheng805.github.io/files/icml2019_poster.pdf) [(video)](http://rcheng805.github.io/files/CORERL_video.mp4) <br/> <br/> <br/>
 
 * Richard Cheng, Yanan Sui, Dimitry Sayenko, and Joel W. Burdick. *Motor Control After Human SCI Through Activation of Muscle Synergies Under Spinal Cord Stimulation.* IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), 2019. [(pdf)](http://rcheng805.github.io/files/tnsre2019_published.pdf) <br/>
 
@@ -36,6 +38,10 @@ List of Publications
 
 * Richard Cheng and Joel W. Burdick. *Extraction of Muscle Synergies in Spinal Cord Injured Patients.* IEEE Engineering in Medicine and Biology Conference, 2018. [(pdf)](http://rcheng805.github.io/files/embc2018.pdf) <br/>
 
-* Pakpong Chirarattananon, Yufeng Chen, E. Farrell Helbling, Kevin Y. Ma, Richard Cheng, and Robert J. Wood. *Dynamics and flight control of a flapping-wing robotic insect in the presence of wind gusts.* Interface Focus, 2016. [(pdf)](http://rcheng805.github.io/files/interface2016.pdf) [(video)](http://rcheng805.github.io/files/interface2016.mp4) <br/>
+{% include googleDrivePlayer.html id=page.driveId5 %}
+<br/> 
+* Pakpong Chirarattananon, Yufeng Chen, E. Farrell Helbling, Kevin Y. Ma, Richard Cheng, and Robert J. Wood. *Dynamics and flight control of a flapping-wing robotic insect in the presence of wind gusts.* Interface Focus, 2016. [(pdf)](http://rcheng805.github.io/files/interface2016.pdf) [(video)](http://rcheng805.github.io/files/interface2016.mp4) <br/> <br/> <br/>
 
+{% include googleDrivePlayer.html id=page.driveId6 %}
+<br/> 
 * Pakpong Chirarattananon, Kevin Y. Ma, Richard Cheng, and Robert J. Wood. *Wind Disturbance Rejection for an Insect-Scale Flapping-Wing Robot.* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2015. [(pdf)](http://rcheng805.github.io/files/iros2015.pdf) [(video)](http://rcheng805.github.io/files/iros2015.mp4) <br/>
