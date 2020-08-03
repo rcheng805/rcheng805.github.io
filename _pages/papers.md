@@ -14,11 +14,12 @@ List of Publications
 
 {% include googleDrivePlayer.html id=page.driveId1 %}
 * Richard Cheng, Mohammad Javad Khojasteh, Aaron D. Ames, and Joel W. Burdick. *Safe Multi-Agent Interaction through Robust Control Barrier Functions with Learned Uncertainties.* IEEE Conference on Decision and Control (CDC), 2020. [(pdf)](http://rcheng805.github.io/files/cdc2020.pdf) [(video)](http://rcheng805.github.io/files/CDC2020_video.mp4) <br/> <br/>
+
 {% include googleDrivePlayer.html id=page.driveId2 %}
 * Richard Cheng, Krishna Shankar, and Joel W. Burdick. *Learning an Optimal Sampling Distribution for Efficient Motion Planning.* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020. [(pdf)](http://rcheng805.github.io/files/iros2020_tri.pdf) [(video)](http://rcheng805.github.io/files/IROS20_1807_VI_i.mp4) <br/> <br/>
 
 {% include googleDrivePlayer.html id=page.driveId3 %}
-* Maegan Tucker, Myra Cheng, Ellen Novoseller, Richard Cheng, Yisong Yue, Joel W. Burdick, and Aaron D. Ames. *Human Preference-Based Learning for High-dimensional Optimization of Exoskeleton Walking Gaits.* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020. [(pdf)](http://rcheng805.github.io/files/iros2020_gait.pdf) [(video)](http://rcheng805.github.io/files/IROS20_1917_VI_fi.mp4) <br/>
+* Maegan Tucker, Myra Cheng, Ellen Novoseller, Richard Cheng, Yisong Yue, Joel W. Burdick, and Aaron D. Ames. *Human Preference-Based Learning for High-dimensional Optimization of Exoskeleton Walking Gaits.* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020. [(pdf)](http://rcheng805.github.io/files/iros2020_gait.pdf) [(video)](http://rcheng805.github.io/files/IROS20_1917_VI_fi.mp4) <br/> <br/>
 
 {% include googleDrivePlayer.html id=page.driveId4 %}
 * Richard Cheng, Abhinav Verma, Gabor Orosz, Swarat Chaudhuri, Yisong Yue, and Joel W. Burdick. *Control Regularization for Reduced Variance Reinforcement Learning.* International Conference on Machine Learning (ICML), 2019. [(pdf)](http://rcheng805.github.io/files/icml2019_paper.pdf) [(slides)](http://rcheng805.github.io/files/icml2019_presentation.pdf) [(poster)](http://rcheng805.github.io/files/icml2019_poster.pdf) [(video)](http://rcheng805.github.io/files/CORERL_video.mp4) <br/>
